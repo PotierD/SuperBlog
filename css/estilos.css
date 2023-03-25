@@ -18,5 +18,10 @@ body {
 
 
 #Historia h1{
+    font-size: 23px;
+    color: blue;
+}
+#Relato {
+    color: yellow;
     font-size: 20px;
 }
